@@ -2,6 +2,12 @@
     font-family: sailec;
     src: url(./Sailec\ Thin.ttf);
 }
+/* .carousel-inner>.item {
+  
+    transition: transform .2s ease-in-out
+    ,-webkit-transform .2s ease-in-out,
+    -o-transform .2s ease-in-out
+} */
 body{
     font-family: sailec, sans-serif;
     width: 90%;
