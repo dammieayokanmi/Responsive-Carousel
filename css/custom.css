@@ -85,6 +85,8 @@ li:hover{
     background-color: #fff;
     border: #d5d2e5 1px solid;
     border-radius: 50%;
+    width: 8px;
+    height: auto;
 }
 /* .details::before{
     content: "";
