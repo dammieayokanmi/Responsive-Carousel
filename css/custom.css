@@ -138,3 +138,9 @@ li:hover{
     transition: .5s;
     z-index: 1;
 } */
+
+/* @media screen and (max-width: 425px){
+    #myCarousel{
+        grid-template-columns: 1fr !important;
+    }
+} */
